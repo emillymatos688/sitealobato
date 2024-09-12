@@ -7,11 +7,11 @@ padding: 0;
 }
 .cabecalho{
 
- background-color: azure;
+ background-color: rgb(106, 231, 231);
 }
 .corpo{
-    background-color: blanchedalmond;
+    background-color: rgb(191, 236, 227);
 }
 .footer{
-    background-color: black;
+    background-color: rgb(185, 245, 240);
 }
