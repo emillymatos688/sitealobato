@@ -6,17 +6,22 @@ padding: 0;
 
 }
 .cabecalho{
-
- background-color: rgb(106, 231, 231);
+background-color: rgb(180, 99, 255);
+ padding: 50px;
 }
-.corpo{
-    background-color: rgb(148, 233, 216);
+ .corpo{
+    background-color: rgb(191, 126, 207);
 }
 .footer{
-   background-color: ;
-   
-    background-color: rgb(185, 245, 240);
-
+   background-color: aquamarine
+}
+ .boton{
+  position: fixed;
+ top: 20px;
+ left: 20px;
+  padding: 10px 20px;
+ background-color: rgb(226, 185, 245);
+ co
 
 
 
