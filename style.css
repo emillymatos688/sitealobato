@@ -20,15 +20,15 @@ background-color: rgb(180, 99, 255);
  top: 20px;
  left: 20px;
   padding: 10px 20px;
- background-color: rgb(226, 185, 245);
- co
-
-
-
-
-
-
-
-
+ background-color: rgb(203, 156, 224);
+ color:rgb(213, 182, 227);
+  text-decoration:none ;
+  border-radius: 5px;
+ }
+ .boton:hover{
+  background-color: blueviolet;
+ }
+ .boton:active{
+  font-size: ;
 
 }
