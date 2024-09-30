@@ -29,6 +29,18 @@ background-color: rgb(180, 99, 255);
   background-color: blueviolet;
  }
  .boton:active{
-  font-size: ;
+  font-size: 20px;
+}
+ .video-grid{
+   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+ gap: 20px;
+}
+.video-item{
+   background-color:  rgba(192, 119, 235), 
+
+
+
 
 }
+
