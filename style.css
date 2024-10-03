@@ -38,9 +38,9 @@ background-color: rgb(180, 99, 255);
 }
 .video-item{
    background-color:  rgba(192, 119, 235), 
-
-
-
-
+  padding: 10px;
+ border-radius: 8px;
+ box-shadow: 0 2px 10px 
+ height: 200px;
 }
 
