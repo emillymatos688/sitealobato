@@ -44,3 +44,33 @@ background-color: rgb(180, 99, 255);
  height: 200px;
 }
 
+.gallery {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   padding: 10px;
+}
+
+.gallery img {
+   margin: 5px;
+   width: calc(33.33% - 10px); /* Três imagens por linha */
+   border-radius: 8px;
+   transition: transform 0.2s;
+}
+
+.gallery img:hover {
+   transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+   .gallery img {
+       width: calc(50% - 10px); /* Duas imagens por linha */
+   }
+}
+
+@media (max-width: 480px) {
+   .gallery img {
+       width: 100%; /* Uma imagem por linha */
+   }
+}
+
