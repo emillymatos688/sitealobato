@@ -37,10 +37,10 @@ background-color: rgb(180, 99, 255);
  gap: 20px;
 }
 .video-item{
-   background-color:  rgba(192, 119, 235), 
-  padding: 10px;
+   background-color:  rgba(192, 119, 235); 
+  padding:10px;
  border-radius: 8px;
- box-shadow: 0 2px 10px 
+ box-shadow: 0 2px 10px rgb(191, 126, 207);
  height: 200px;
 }
 
